@@ -1,0 +1,4 @@
+myParser.exe
+tests.backup/
+parser.output
+*.o
